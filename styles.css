@@ -1,0 +1,49 @@
+* {
+    font-family: 'Libre Baskerville', serif;
+}
+h1 { 
+    color:#dde0a6;
+    border-bottom: 2px solid #81bdd8;
+    }
+h2 { 
+    color:#dde0a6;
+    }
+hr {
+    border-bottom: 3px solid #81bdd8;
+}
+hr.insidebox{
+    border-bottom: 2px solid #81bdd8;
+}
+body {
+    background-color: #3b2953;
+    }
+.bluebox {   
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    padding: 2rem;
+    background-color: #454a91;
+    }
+p {
+    color: rgb(108, 226, 187); 
+    margin-left: 100px;
+    margin-right: 100px;
+    }
+#aboutme{
+    font-size: large;
+}
+#footertext{
+    color: rgb(147, 204, 185); 
+    font-size: small;
+    margin-left: auto;
+}
+a:link {
+    color:#66e7dd;
+}
+a:focus, a:hover, a:active{
+    color:#66bee7;
+}
+a:visited{
+    color:#dc66e7;
+}

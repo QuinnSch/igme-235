@@ -1,0 +1,2 @@
+ErrorDocument 404 /qms6350/235/error/error.html
+DirectoryIndex noterror.html
